@@ -1,23 +1,17 @@
 {
-    "name": "Jogo de Adivinhação",
-    "short_name": "NumberGuess",
-    "description": "Um jogo simples onde você tenta adivinhar um número entre 1 e 100.",
-    "start_url": "https://sampaiodx.github.io/Atividadejogo-main/",
-    "background_color": "#ddd",
-    "theme_color": "#333",
-    "scope": "https://sampaiodx.github.io/Atividadejogo-main/",
-    "display": "standalone",
-    "icons":[
-    {
-
-    }
-    ],
-    "lang": "pt-br",
-    "dir": "auto",
-    "categorias": [
-        "jogos"
-    ],
-    "id":"pwa_teste",
-    "orientation": "any"
-    
+  "name": "Jogo de Adivinhação",
+  "short_name": "NumberGuess",
+  "description": "Um jogo simples onde você tenta adivinhar um número entre 1 e 100.",
+  "start_url": "https://sampaiodx.github.io/Atividadejogo-main/",
+  "background_color": "#ddd",
+  "theme_color": "#333",
+  "scope": "https://sampaiodx.github.io/Atividadejogo-main/",
+  "display": "standalone",
+  "lang": "pt-br",
+  "dir": "auto",
+  "categories": [
+    "jogos"
+  ],
+  "id": "pwa_teste",
+  "orientation": "any"
 }
